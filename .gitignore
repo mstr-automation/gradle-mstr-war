@@ -5,3 +5,9 @@
 build
 
 gradle.properties
+
+.classpath
+.project
+.settings/
+.vscode/
+bin/

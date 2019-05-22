@@ -1,3 +1,5 @@
+package net.dreamshake.gradle.plugins
+
 import org.gradle.api.model.ObjectFactory
 import org.gradle.api.provider.Property
 
